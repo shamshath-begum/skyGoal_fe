@@ -1,0 +1,26 @@
+nav{
+    background-color: rgb(36, 3, 63);
+    height: 90px;
+}
+.navbar-brand img{
+    width: 120px;
+    height: 120px;
+}
+.button{
+    display: flex;
+    gap: 30px;
+}
+.button1{
+    width: 90px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    background-color:#A98EDA;
+    border-radius:8px ;
+    text-decoration: none;
+    border: 1px solid rgb(36, 3, 63) ;
+}
+.button2{
+    border-radius:8px ;
+    border: 1px solid rgb(36, 3, 63) ;
+}
